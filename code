@@ -1,6 +1,6 @@
-
+# num is a variable store the value
 num = int(input("Enter a number:"))
-if num % 2==0:
-    print("Even number")
+if num % 2==0: # using if condition 
+    print("Even number") # condition is true print tha number is even 
 else:
-    print("Odd number")
+    print("Odd number") # condition is false print the number is odd
